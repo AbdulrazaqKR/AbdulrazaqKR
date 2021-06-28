@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulrazaq
-- 👀 I’m interested in apps development and Ai. 
-- 🌱 I’m currently learning Java,android kotlin. 
+- 👀 I’m interested in apps development and AI. 
+- 🌱 I’m currently learning Java and android kotlin. 
 
 <!---
 AbdulrazaqKR/AbdulrazaqKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
